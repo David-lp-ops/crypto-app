@@ -1,2 +1,2 @@
 # crypto-app
- Cotizacion de criptomonedas 
+ Cotizacion de criptomonedas en tiempo real utilizando React y Styled Components
